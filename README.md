@@ -27,9 +27,9 @@ The project was developed using the following technologies
     # Enter directory
     cd test-texoit
     # Install dependencies
-    $ mvn clean package
+    mvn clean package
     Start the project
-    $ java -jar target/test-texoit.jar
+    java -jar target/test-texoit.jar
 
 ```
 
